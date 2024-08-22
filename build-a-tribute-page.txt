@@ -1,0 +1,76 @@
+** start of undefined **
+
+<!DOCTYPE HTML>
+<html>
+  <head><title id="title">Nelson Mandela</title>
+  <link href="styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <main id="main">
+      <section class="one">
+      <h1>Nelson Mandela</h1>
+      <h2>The Voice of Freedom</h2>
+      <div id="img-div">
+        <figure>
+        <img id="image" src="https://images.app.goo.gl/NgFwbm6UGd9Jo9GF7" alt="Nelson on a podium">
+        <figcaption id="img-caption">Nelson speaking to a crowd</figcaption>
+        </figure> 
+        </div>
+        </section>
+        <section class="two">
+        <div id="tribute-info">
+          <ul><li>
+          <p><strong>1918</strong>-born in the village of Mvezo in Umtata</p></li>
+          <li> <p><strong>1930 </strong>- Father dies. Entrusted to Thembu Regent Jongintaba Dalindyebo at the age of 12</p></li>
+          <li> <p>	 	
+<strong>1939</strong>- Enrols at the University College of Fort Hare, in Alice</p></li>
+          <li> <p><strong>1943	 	
+</strong>- Graduates with BA from Fort Hare; Enrols for an LLB at Wits University</p>
+           </li><li><p><strong>1944	 	
+</strong>- Co-founds the ANC Youth League (ANCYL); marries Evelyn Ntoko Mase – they have four children: Thembekile (1945); Makaziwe (1947 – who dies after nine months); Makgatho (1950); Makaziwe (1954)</p></li>
+            <li><p><strong>1952	 	
+</strong>- Defiance Campaign begins; Arrested and charged for violating the Suppression of Communism Act; Elected Transvaal ANC President; Convicted with J.S Moroka, Walter Sisulu and 17 others under the Suppression of Communism Act; Sentenced to nine months imprisonment with hard labour, suspended for two years; Elected first of ANC deputy presidents; Opens law firm with Oliver Tambo - the only black law firm in Johannesburg in the 1950s</p>
+          </li><li><p><strong>1956 	
+</strong>- Arrested and later joins 155 others on trial for treason. All are acquitted by 29 March 1961</p></li>
+<li><p><strong>1962</strong>- Sentenced to five years in prison for incitement and leaving the country without a passport
+
+</p></li>
+           <li><p><strong>1994</strong>- Inaugurated as President of the Republic of South Africa</p></li>
+          <li> <p><strong>1999	 	
+</strong>- Steps down after one term as President, establishes the Nelson Mandela Foundation</p></li>
+          <li><p>2013<strong></strong>- Passes away at home in Johannesburg</p></li> 
+           </ul>
+          <a id="tribute-link" target="_blank" href="https://www.nelsonmandela.org/biography">More info</a>
+      </div>
+      <p id="quote">I have fought against white domination, and I have fought against black domination. I have cherished the ideal of a democratic and free society in which all persons live together in harmony and with equal opportunities. It is an ideal which I hope to live for and to achieve. But if needs be, it is an ideal for which I am prepared to die. </p>
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+.one{
+  text-align:center;
+  font-size:30px;
+}
+strong{
+  text-align:left 
+}
+#quote{
+  font-style:italic;
+  margin-left:50px
+}
+img{
+  display:block;
+}
+#image{
+  margin:auto;
+  max-width:100%;
+  height:auto;
+}
+
+
+** end of undefined **
+
